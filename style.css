@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#rodzic {
+    display: flex;
+
+}
+#dzieckolewe {
+    width: 70%; 
+    background-color: blue; 
+}
+aside {
+    width: 30%;
+    background-color: purple;
+    height: 500px;
+}
+header {
+    background-color: red;
+}
+
+main ol {
+    padding-left: 20px;
+}
+
+aside ul {
+    padding-left: 20px;
+}
